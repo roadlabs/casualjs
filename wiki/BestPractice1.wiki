@@ -1,5 +1,5 @@
+#summary 帧频(渲染频率)设置
 #labels stage,frameRate,render
-#帧频(渲染频率)设置
 
 ==帧频(渲染频率)设置==
 
