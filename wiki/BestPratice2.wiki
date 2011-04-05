@@ -1,7 +1,7 @@
-#summary 应用容器的使用
+#summary 显示对象容器DisplayObjectContainer的使用
 #labels DisplayObjectContainer,addChild,stage
 
-== 应用容器的使用 ==
+== 显示对象容器DisplayObjectContainer的使用 ==
 
 在casualjs中通过DisplayObjectContainer，Sprite等可以很容易的实现各种元素的分组嵌套及布局。比如：
 
